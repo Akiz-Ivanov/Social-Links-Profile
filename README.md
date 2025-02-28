@@ -20,8 +20,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- **Solution URL**: [https://github.com/Akiz-Ivanov/Blog-Preview](https://github.com/Akiz-Ivanov/Social-Links-Profile)
+- **Live Site URL**: [https://akiz-ivanov.github.io/Blog-Preview/](https://akiz-ivanov.github.io/Social-Links-Profile/)
 
 ## My process
 
